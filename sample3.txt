@@ -1,3 +1,4 @@
 this is my third file
 
 adding a new line to check .git folder
+adding new line to test
