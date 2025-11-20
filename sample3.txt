@@ -1,1 +1,3 @@
 this is my third file
+
+adding a new line to check .git folder
